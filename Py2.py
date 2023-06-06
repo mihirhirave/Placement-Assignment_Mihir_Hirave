@@ -29,18 +29,15 @@ print(is_valid_string("abc"))  # Output: YES
 
 
 print(is_valid_string("abcc"))  # Output: YES
-
 ## Character 'c' appears twice so we can remove 1 occurence to make all characters have the same frequency (1)
 
 
 ## Test case 1:
 print(is_valid_string("aaabbbccc"))  # Output: YES
-
 ## All characters have the same frequency, so the string is valid
 
 
 ## Test case 2:
 print(is_valid_string("aabcc"))  # Output: YES
-
 ## Character 'b' appears only once, so we can remove it to make all characters have the same frequency (2)
 
