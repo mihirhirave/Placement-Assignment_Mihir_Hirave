@@ -9,10 +9,9 @@ scores (out of 1600) and their college GPA (on a 4.0 scale). They find that the 
 coefficient between SAT scores and college GPA is 0.7. What does this correlation
 coefficient indicate about the relationship between SAT scores and college GPA?
 
-'''
 
 
-''' 
+
 
 Answer 1:-
 
