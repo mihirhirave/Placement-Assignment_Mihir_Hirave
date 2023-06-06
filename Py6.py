@@ -1,5 +1,5 @@
 '''
-Question-6 [Python]
+Question-6
 Using the data from Question 3, write code to analyze the data and answer the following questions 
 
 Note:-
