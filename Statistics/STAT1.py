@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 '''
 
@@ -19,7 +14,7 @@ coefficient indicate about the relationship between SAT scores and college GPA?
 
 ''' 
 
-## Answer 1:-
+Answer 1:-
 
 A correlation coefficient of 0.7 indicates a strong positive relationship between SAT scores and college GPA.
 This means that there is a significant tendency for students with higher SAT scores to have higher college 
